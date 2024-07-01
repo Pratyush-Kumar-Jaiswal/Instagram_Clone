@@ -1,0 +1,43 @@
+.logo{
+    width: 105px;
+    height: 30px;
+    /* border: 1px solid; */
+    margin-left: 15px;
+}
+
+.logoImg{
+width: 100%;
+}
+
+.navLinkPart{
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px ;
+}
+
+.navLink{
+    display: flex;
+    border-radius: 10px;
+    height: 30px;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 1px;
+    &:hover{
+        background-color: #ededed;
+        cursor: pointer;
+    }
+}
+
+.navName{
+    font-weight: 400;
+}
+
+.profileImg{
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.belowPart{
+    margin-bottom: 0;
+}
