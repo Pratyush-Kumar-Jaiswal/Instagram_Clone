@@ -1,5 +1,6 @@
 import './App.css';
 import LeftSide from './Component/leftSide';
+import MiddleSide from './Component/middleSide';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <LeftSide/>
       </div>
       <div className="middleSide">
-        Middle
+        <MiddleSide/>
       </div>
       <div className='rightSide'>
         Right

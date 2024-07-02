@@ -8,7 +8,6 @@
 
 .leftSide{
   flex: 0.18;
-  border-right: 1px solid #e1e1e1;
   padding: 25px 10px;
 
 }
@@ -16,6 +15,7 @@
 .middleSide{
   flex: 0.5;
   /* border: 1px solid; */
+  border-left: 1px solid #e1e1e1;
 }
 
 .rightSide{
