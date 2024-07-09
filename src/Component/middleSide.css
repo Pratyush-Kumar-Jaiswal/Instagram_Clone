@@ -10,17 +10,32 @@
 }
 
 .storyBlock{
-    width: 100%;
-    border: 1px solid;
+    width: 700px;
+    /* border: 1px solid; */
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    overflow-x: auto;
+}
+.storyBlock::-webkit-scrollbar{
+    display: none;
 }
 .storyParticular{
     width: 66px;
     height: 66px;
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .imgDiv{
     width: 56px;
     height: 56px;
     border-radius: 100%;
+    padding: 2px;
+    border: 2px solid purple;
 }
 .statusImg{
     width: 100%;
@@ -29,5 +44,5 @@
 }
 
 .profileName{
-    font-size: 12px;
+    font-size: 10px;
 }

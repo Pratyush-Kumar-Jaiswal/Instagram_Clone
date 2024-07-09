@@ -13,6 +13,66 @@ const middleSide = () => {
                 </div>
                 <div className="profileName">Talon</div>
             </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
+            <div className="storyParticular">
+                <div className="imgDiv">
+                    <img className="statusImg" src={StoryPic} alt="Story_Pic" />
+                </div>
+                <div className="profileName">Talon</div>
+            </div>
         </div>
       </div>
     </div>
